@@ -3,6 +3,5 @@
     <string-array name="units_array">
         <item>Celsius</item>
         <item>Fahrenheit</item>
-        <!-- Add more units as needed -->
     </string-array>
 </resources>
